@@ -1,2 +1,2 @@
-# ds-playground
+# Data Science Playground
 Playground
